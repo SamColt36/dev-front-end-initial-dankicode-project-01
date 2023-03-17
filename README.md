@@ -1,4 +1,5 @@
 
+
 # Projeto Inicial do Curso de Formação Front-end DaniCode
 
 🚀 Bem-vindo ao meu projeto inicial do curso Front-End da formação **Full Stack** - DaniCode! 🚀
