@@ -1,9 +1,10 @@
 
+
 # Projeto Inicial do Curso de Formação Front-end DaniCode
 
 🚀 Bem-vindo ao meu projeto inicial do curso Front-End da formação **Full Stack** - DaniCode! 🚀
 
-O objetivo deste projeto é criar uma página da Starbucks usando os conceitos básicos de responsividade e adaptabilidade. O material de referência para este projeto foi fornecido pelo usuário [Ajinkya](!https://www.figma.com/community/file/1118108458858472573) no Figma.
+O objetivo deste projeto é criar uma página da Starbucks usando os conceitos básicos de responsividade e adaptabilidade. O material de referência para este projeto foi fornecido pelo usuário [Ajinkya](https://www.figma.com/community/file/1118108458858472573) no Figma.
 
 ## Sobre a Página
 
@@ -15,7 +16,7 @@ A página da Starbucks que eu criei possui os seguintes recursos:
 
 ## Como Acessar o Projeto
 
-Para acessar o projeto, você pode clonar o repositório em seu computador e abrir o arquivo `index.html` em seu navegador. Alternativamente, você pode acessar a página ao vivo neste [link](!https://samcolt36.github.io/dev-front-end-initial-danicode-project-01-/).
+Para acessar o projeto, você pode clonar o repositório em seu computador e abrir o arquivo `index.html` em seu navegador. Alternativamente, você pode acessar a página ao vivo neste [link](https://samcolt36.github.io/dev-front-end-initial-danicode-project-01-/).
 
 ## Tecnologias Utilizadas
 
