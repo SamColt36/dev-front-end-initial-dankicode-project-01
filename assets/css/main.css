@@ -1,0 +1,94 @@
+main {
+    margin-top: 3em;
+    display: flex;
+}
+
+main article {
+    width: 60%;
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+main article h1 {
+    color: #434343;
+    font-size: 4em;
+    font-weight: 400;
+}
+
+main article h1 span {
+    color: #047044;
+    font-weight: 900;
+}
+
+main article p {
+    margin-top: 4em;
+    color: #000;
+    font-size: .75em;
+    line-height: 2;
+}
+
+main article button {
+    outline: none;
+    border: none;
+    margin-top: 4em;
+}
+
+main article button a {
+    background-color: #047044;
+    text-transform: uppercase;
+    font-size: 1em;
+    padding: 15px;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+main section {
+    min-width: 150px;
+}
+
+main section,
+main section figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+main section figure img {
+    max-width: 90%;
+}
+
+/*Mobile-first*/
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+    main {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    main article h1 {
+        font-size: 1.8em;
+    }
+
+    main article p {
+        font-size: .9em;
+    }
+
+    main section figure {
+        margin-top: 30px;
+    }
+}
+
+/*Tablets*/
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+    main article {
+        width: 50%;
+    }
+
+    main article h1 {
+        font-size: 1.7em;
+    }
+}

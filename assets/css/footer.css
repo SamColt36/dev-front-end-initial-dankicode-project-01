@@ -1,0 +1,46 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+}
+
+footer {
+    position: relative;
+    position: relative;
+    height: 10em;
+}
+
+footer img {
+    margin: 0 1%;
+    min-height: 100px;
+}
+
+footer img:nth-child(1) {
+    order: 1;
+    height: 80%;
+}
+
+footer img:nth-child(2) {
+    order: 3;
+    height: 80%;
+}
+
+footer img:nth-child(3) {
+    order: 2;
+    height: 100%;
+}
+
+/*Mobile-first & Tablets*/
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    footer img:nth-child(1) {
+        height: 60%;
+    }
+
+    footer img:nth-child(2) {
+        height: 60%;
+    }
+
+    footer img:nth-child(3) {
+        height: 80%;
+    }
+}
