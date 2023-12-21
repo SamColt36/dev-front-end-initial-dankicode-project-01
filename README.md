@@ -1,6 +1,6 @@
 
 
-# Projeto Inicial do Curso de Formação Front-end DaniCode
+# Projeto Inicial do Curso de Formação Front-end DankiCode
 
 🚀 Bem-vindo ao meu projeto inicial do curso Front-End da formação **Full Stack** - DankiCode! 🚀
 
@@ -16,7 +16,7 @@ A página da Starbucks que eu criei possui os seguintes recursos:
 
 ## Como Acessar o Projeto
 
-Para acessar o projeto, você pode clonar o repositório em seu computador e abrir o arquivo `index.html` em seu navegador. Alternativamente, você pode acessar a página ao vivo neste [link](https://samcolt36.github.io/dev-front-end-initial-danicode-project-01-/).
+Para acessar o projeto, você pode clonar o repositório em seu computador e abrir o arquivo `index.html` em seu navegador.
 
 ## Tecnologias Utilizadas
 
@@ -32,6 +32,6 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma
 
 ## Agradecimentos
 
-Por fim, eu gostaria de agradecer a DaniCode por fornecer um excelente curso de formação em front-end e ao usuário Ajinkya por fornecer o material de referência para este projeto. Obrigado! 🙏
+Por fim, eu gostaria de agradecer a DankiCode por fornecer um excelente curso de formação em front-end e ao usuário Ajinkya por fornecer o material de referência para este projeto. Obrigado! 🙏
 
 Espero que este README seja inspirador e maravilhoso o suficiente para o seu repositório no GitHub! Se você precisar de mais ajuda ou tiver alguma dúvida, não hesite em entrar em contato comigo.
